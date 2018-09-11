@@ -27,10 +27,6 @@
             "providers": [
                 "Fx3costa\\LaravelChartJs\\Providers\\ChartjsServiceProvider"
             ]
-        },
-        "branch-alias": {
-            "dev-master": "dev-master"
-          }
-        
+        }
     }
 }
