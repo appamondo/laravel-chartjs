@@ -29,7 +29,7 @@
             ]
         },
         "branch-alias": {
-            "dev-master": "2.5-dev"
+            "dev-master": "dev-master"
           }
         
     }
